@@ -9,7 +9,7 @@ NEW_FILE_CODE
 [![Redis](https://img.shields.io/badge/Redis-6.x-red.svg)](https://redis.io/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-基于 Spring Boot + Redis 的高并发电商平台，支持秒杀、探店笔记、关注推送等核心功能
+基于 Spring Boot + Redis 的高并发电商平台，支持秒杀、发帖、关注推送等核心功能
 
 </div>
 
@@ -23,7 +23,7 @@ NEW_FILE_CODE
 
 - **商家管理**：商铺信息查询、分类展示、校园商户
 - **秒杀系统**：优惠券秒杀、库存扣减、一人一单限制
-- **内容社区**：笔记发布、点赞互动、热度排行
+- **内容社区**：贴子发布、点赞互动、热度排行
 - **社交功能**：用户关注、共同关注、Feed流推送
 - **用户体系**：短信登录、Token续期、签到统计
 
