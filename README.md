@@ -1,6 +1,4 @@
-# Campus-Market
-NEW_FILE_CODE
-# 校园生活服务平台
+# 雅鉴生活志
 
 <div align="center">
 
